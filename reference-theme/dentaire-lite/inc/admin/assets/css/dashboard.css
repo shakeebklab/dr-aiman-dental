@@ -1,0 +1,152 @@
+.container-fluid{
+    width: calc(100% - var(--bs-gutter-x) * 2);
+    margin-left: 0;
+    margin-right: 0;
+}
+
+.info-box a{
+    color: #7eaf0e;
+}
+
+.btn-custom,
+.premium-btn a{
+    outline: 0;
+    box-shadow: none;
+    background-color: #d2e761;
+    font-size: 14px;
+    font-weight: 600;
+    color: #1d2327 !important;
+    text-decoration: none;
+    border-radius: 4px;
+    padding: 10px 20px;
+    display: inline-block;
+    transition: all 0.3s ease-in-out;
+}
+
+.btn-custom:hover,
+.btn-custom:focus,
+.premium-btn a:hover,
+.premium-btn a:focus{
+    outline: 0;
+    box-shadow: none;
+    background: #324132;
+    color: #fff !important;
+}
+
+
+.at-welcome-panel-header{
+    padding: 20px 0;
+}
+
+.at-dashboard-tabs .at-dashboard-tabs-list {
+    flex-wrap: wrap;
+    justify-content: flex-start;
+    display: flex;
+    margin: 0;
+}
+
+.at-dashboard-tabs .at-dashboard-tabs-list li {
+    margin: 0;
+    display: flex;
+}
+
+.at-dashboard-tabs .at-dashboard-tabs-list a {
+    font-weight: 500;
+    font-size: 16px;
+    line-height: 1.5;
+    color: #888;
+    text-decoration: none;
+    outline: none;
+    box-shadow: none;
+    padding: 0 20px;
+    position: relative;
+    border-right: 1px solid #e8e8e8;
+    transition: all 0.3s ease-in-out;
+}
+
+.at-dashboard-tabs .at-dashboard-tabs-list li:first-child a{
+    padding-left: 12px;
+}
+
+.at-dashboard-tabs .at-dashboard-tabs-list li:last-child a{
+    border-right: none;
+}
+
+
+.toplevel_page_dentaire-lite-dashboard .dashboard-tab a,
+.dentaire_page_at-free-vs-Pro .free-vs-Pro-tab a,
+.dentaire_page_at-how-to-use .how-to-use-tab a,
+.dentaire_page_at-license .license-tab a,
+.at-dashboard-tabs .at-dashboard-tabs-list a:hover,
+.appearance_page_dentaire-lite-dashboard .dashboard-tab a,
+.appearance_page_at-free-vs-Pro .free-vs-Pro-tab a,
+.appearance_page_at-how-to-use .how-to-use-tab a,
+.appearance_page_at-license .license-tab a,
+.at-dashboard-tabs .at-dashboard-tabs-list a:hover
+
+{
+    color: #000;
+}
+
+.at-dashboard-tabs{
+    background: #fff;
+    padding: 12px 20px;
+    border-radius: 10px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.info-box-wrapper{
+    padding: 30px;
+    background: #fff;
+    border-radius: 10px;
+    margin-top: 10px;
+}
+
+.footer-note{
+    border-top: 1px solid #e8e8e8;
+    margin-top: 30px;
+}
+
+.tbl-pricing{
+    width: 100%;
+    max-width: 900px;
+    border-collapse: collapse;
+    border-right: 1px solid #ffffff50;
+    border-left: 1px solid #e8e8e8;
+}
+
+.tbl-pricing tr:nth-of-type(even){
+    background-color: #f8f8f8;
+}
+
+.tbl-pricing tr td{
+    border-right: 1px solid #e8e8e8;
+    border-bottom: 1px solid #e8e8e8;
+    padding: 8px 20px;
+}
+
+.tbl-pricing tr th{
+    padding: 12px 20px;
+    background-color: #000;
+    color: #fff;
+    border-right: 1px solid #ffffff50;
+}
+
+.tbl-pricing tr th:first-child{
+    text-align: left;
+}
+
+.tbl-pricing tr td:nth-of-type(2),
+.tbl-pricing tr td:nth-of-type(3){
+    text-align: center;
+}
+
+.tbl-pricing .dashicons-no-alt{
+    color: #ff0000;
+}
+
+.tbl-pricing .dashicons-saved{
+    color: #00ff00;
+}

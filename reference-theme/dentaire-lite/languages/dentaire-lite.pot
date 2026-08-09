@@ -1,0 +1,1229 @@
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Dentaire Lite\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2026-01-06 08:56+0000\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: \n"
+"Language: \n"
+"Plural-Forms: nplurals=INTEGER; plural=EXPRESSION;\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Loco https://localise.biz/\n"
+"X-Loco-Version: 2.8.0; wp-6.9; php-8.2.12\n"
+"X-Domain: dentaire-lite"
+
+#. 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3604
+#, php-format
+msgid "%1$s installed and activated successfully."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3612
+#, php-format
+msgid "%1$s installed successfully."
+msgstr ""
+
+#. %s: Link to the demo import screen
+#: inc/admin/views/how-to-use.php:33
+#, php-format
+msgid ""
+"1. Download the demo content XML file from <a href=\"%s\" target=\"_blank\">"
+"Demo XML</a>"
+msgstr ""
+
+#: inc/admin/views/how-to-use.php:15
+msgid "1. Install Plugins"
+msgstr ""
+
+#: inc/admin/views/how-to-use.php:29
+msgid "2. Import Demo Data"
+msgstr ""
+
+#. %s: Link to the demo import screen
+#: inc/admin/views/how-to-use.php:41
+#, php-format
+msgid ""
+"2. Navigate to <a href=\"%s\" target=\"_blank\"><strong>Appearance > Import "
+"Demo Data</strong></a>. \tIn the <strong>Import Content</strong> field, "
+"upload the downloaded XML file, then click <strong>Continue & Import</strong>"
+" to proceed."
+msgstr ""
+
+#: inc/admin/views/how-to-use.php:52
+msgid "3. Edit pages"
+msgstr ""
+
+#: inc/breadcrumbs.php:270
+msgid "404 Error"
+msgstr ""
+
+#. %s: URL to the upgrade page
+#: inc/admin/views/welcome-panel.php:27
+#, php-format
+msgid "<a href=\"%s\" target=\"_blank\">Upgrade now</a>"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2821
+msgid "Activate"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2709
+#, php-format
+msgid "Activate %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2415
+msgid "Active"
+msgstr ""
+
+#: inc/functions.php:119
+msgid "Add a menu"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:128
+msgid "Add Image"
+msgstr ""
+
+#: functions.php:202
+msgid "Add widgets here to appear in your portfolio sidebar."
+msgstr ""
+
+#: functions.php:192
+msgid "Add widgets here to appear in your sidebar."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:153
+msgid "Alignment"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3605
+msgid "All installations and activations have been completed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3613
+msgid "All installations have been completed."
+msgstr ""
+
+#. 1: dashboard link.
+#: inc/class-tgm-plugin-activation.php:406
+#, php-format
+msgid "All plugins installed and activated successfully. %1$s"
+msgstr ""
+
+#. 1: plugin name, 2: error message.
+#: inc/class-tgm-plugin-activation.php:3596
+#, php-format
+msgid "An error occurred while installing %1$s: <strong>%2$s</strong>."
+msgstr ""
+
+#: inc/customizer/customizer.php:189
+msgid "Archive Page Layout"
+msgstr ""
+
+#: inc/breadcrumbs.php:271
+msgid "Archives"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2576
+msgctxt "as in: \"version nr unknown\""
+msgid "unknown"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2604
+msgid "Available version:"
+msgstr ""
+
+#. Author of the theme
+msgid "AwaikenThemes"
+msgstr ""
+
+#: template-parts/404.php:33
+msgid "Back To Home"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:391
+#: inc/compatibility/elementor/widgets/site-logo.php:617
+msgid "Background Color"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:392
+msgid "Begin activating plugin"
+msgid_plural "Begin activating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:382
+msgid "Begin installing plugin"
+msgid_plural "Begin installing plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:387
+msgid "Begin updating plugin"
+msgid_plural "Begin updating plugins"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/views/free-vs-pro.php:61
+msgid "Better Flexibility"
+msgstr ""
+
+#: inc/customizer/customizer.php:63
+msgid "Blog Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:179
+msgid "Blog Page Title"
+msgstr ""
+
+#: inc/customizer/customizer.php:206
+msgid "Blog Single Layout"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:443
+msgid "Border Color"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:461
+msgid "Border Radius"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:402
+msgid "Border Style"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:421
+msgid "Border Width"
+msgstr ""
+
+#: inc/breadcrumbs.php:268
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: inc/breadcrumbs.php:267
+msgid "Browse:"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:180
+#: inc/compatibility/elementor/widgets/site-logo.php:591
+msgid "Caption"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:161
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/customizer.php:115 inc/customizer/customizer.php:242
+msgid "Change File"
+msgstr ""
+
+#: inc/customizer/customizer.php:120 inc/customizer/customizer.php:247
+msgid "Choose File"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:277
+#, php-format
+msgid "Comment Page %s"
+msgstr ""
+
+#. 1: number of comments
+#: comments.php:37
+#, php-format
+msgctxt "comments title"
+msgid "%1$s Response"
+msgid_plural "%1$s Responses"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:33
+msgctxt "comments title"
+msgid "One Response"
+msgstr ""
+
+#: inc/customizer/customizer.php:261
+msgid "Copyright Text"
+msgstr ""
+
+#: template-parts/footer.php:50
+msgid "Created by AwaikenThemes, Powered by WordPress. All rights reserved"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:193
+msgid "Custom Caption"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:116
+msgid "Custom Image"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:217
+msgid "Custom URL"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:18 inc/admin/views/dashboard.php:26
+msgid "Customize"
+msgstr ""
+
+#: inc/breadcrumbs.php:793 inc/breadcrumbs.php:1222
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: inc/admin/views/welcome-panel.php:18
+msgid "Dashboard"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:411
+msgid "Dashed"
+msgstr ""
+
+#: inc/customizer/customizer.php:116 inc/customizer/customizer.php:243
+#: inc/compatibility/elementor/widgets/site-logo.php:214
+#: inc/compatibility/elementor/widgets/site-logo.php:245
+msgid "Default"
+msgstr ""
+
+#: inc/admin/admin.php:30
+msgid "DEMO IMPORT"
+msgstr ""
+
+#: inc/admin/class-dashboard.php:76 inc/admin/class-dashboard.php:77
+#: inc/admin/views/welcome-panel.php:19
+msgid "Demo Import"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:49
+msgid "Dentaire - Site Logo"
+msgstr ""
+
+#: inc/admin/class-dashboard.php:66 inc/admin/class-dashboard.php:67
+msgid "Dentaire Dashboard"
+msgstr ""
+
+#. Name of the theme
+#: inc/admin/admin.php:37
+msgid "Dentaire Lite"
+msgstr ""
+
+#: inc/admin/admin.php:75
+msgid ""
+"Dentaire Lite has been successfully installed and is ready to use. Click on "
+"the ‘Demo Import’ tab to quickly get started with a pre-made template, or "
+"visit the Theme Dashboard for a complete overview."
+msgstr ""
+
+#. Description of the theme
+msgid ""
+"Dentist &amp; Dental Clinic WordPress Theme is a clean, modern, and fully "
+"responsive one-page theme designed specifically for dental clinics, dentists,"
+" and healthcare professionals. Built using the free Elementor page builder, "
+"it offers easy drag-and-drop customization without any coding knowledge. "
+"Ideal for creating a professional dental website with fast performance, SEO-"
+"friendly code, and an intuitive layout. Try the live demo of free theme: "
+"https://demo.awaikenthemes.com/dentaire-lite/ , You can explore our premium "
+"version here: https://awaikenthemes.com/dentaire-dentist-dental-clinic-"
+"wordpress-theme/"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:407
+msgid "Dismiss this notice"
+msgstr ""
+
+#: inc/customizer/customizer.php:93
+msgid "Display preloader while the page is loading."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:410
+msgid "Dotted"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:409
+msgid "Double"
+msgstr ""
+
+#: inc/required-plugins.php:49
+msgid "Elementor"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:196
+msgid "Enter caption"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2389
+msgid "External Source"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:17
+msgid "Features"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:59
+msgid "Flexibility"
+msgstr ""
+
+#: functions.php:84
+msgid "Footer"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:74
+msgid "Footer Builder"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:54
+msgid "Footer Layouts"
+msgstr ""
+
+#: inc/customizer/customizer.php:237
+msgid "Footer Logo"
+msgstr ""
+
+#: inc/customizer/customizer.php:68
+msgid "Footer Options"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:56
+msgid "Four Footer Layouts"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:51
+msgid "Four Header Layouts"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:18
+msgid "Free"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:25
+msgid "Free Version Updates"
+msgstr ""
+
+#: inc/admin/class-dashboard.php:94 inc/admin/class-dashboard.php:95
+#: inc/admin/views/welcome-panel.php:21
+msgid "Free vs Pro"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:41
+msgid "Full demo with inner pages"
+msgstr ""
+
+#: inc/customizer/customizer.php:194 inc/customizer/customizer.php:211
+msgid "Full Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:58
+msgid "General Options"
+msgstr ""
+
+#: inc/admin/views/license.php:15
+msgid "Get Dentaire Pro"
+msgstr ""
+
+#: functions.php:83
+msgid "Header"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:69
+msgid "Header Builder"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:49
+msgid "Header Layouts"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:79
+msgid "Heading Animation"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:17
+msgid ""
+"Here you can find options to customize the site logo, blog, general settings,"
+" and footer."
+msgstr ""
+
+#: inc/admin/views/dashboard.php:25
+msgid ""
+"Here, you can find options to customize the website's typography and colors."
+msgstr ""
+
+#: inc/breadcrumbs.php:269
+msgid "Home"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:44
+msgid "Homepage Sections"
+msgstr ""
+
+#: inc/breadcrumbs.php:775
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:522
+msgid "Hover"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:570
+msgid "Hover Animation"
+msgstr ""
+
+#. Author URI of the theme
+msgid "https://awaikenthemes.com/"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:230
+msgid "https://your-link.com"
+msgstr ""
+
+#: inc/customizer/customizer.php:110
+msgid "If you want to change the current loading icon, select it here."
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:84
+msgid "Image Reveal Animation"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:146
+msgid "Image Size"
+msgstr ""
+
+#: inc/ocdi.php:33
+msgid ""
+"Importing demo data (post, pages, images, theme settings, etc.) is the "
+"quickest and easiest way to set up your new theme. It allows you to simply "
+"edit everything instead of creating content and layouts from scratch."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2812
+msgid "Install"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2698
+#, php-format
+msgid "Install %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:340
+msgid "Install Plugins"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:339
+msgid "Install Required Plugins"
+msgstr ""
+
+#. 1: install status, 2: update status
+#: inc/class-tgm-plugin-activation.php:2436
+#, php-format
+msgctxt "Install/Update Status"
+msgid "%1$s, %2$s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2413
+msgid "Installed But Not Activated"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2584
+msgid "Installed version:"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3607
+#, php-format
+msgid "Installing and Activating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3615
+#, php-format
+msgid "Installing Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:342
+#, php-format
+msgid "Installing Plugin: %s"
+msgstr ""
+
+#: template-parts/search.php:70
+msgid "It seems we can't find what you're looking for."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:157
+msgid "Left"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:60
+msgid "Less Flexibility"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:45
+msgid "Less Sections"
+msgstr ""
+
+#: inc/admin/class-dashboard.php:85 inc/admin/class-dashboard.php:86
+#: inc/admin/views/welcome-panel.php:20
+msgid "License"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:241
+msgid "Lightbox"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:210
+#: inc/compatibility/elementor/widgets/site-logo.php:225
+msgid "Link"
+msgstr ""
+
+#: inc/customizer/customizer.php:136
+msgid "Magic Cursor"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:347
+msgid "Max Height"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:319
+msgid "Max Width"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:216
+msgid "Media File"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2592
+msgid "Minimum required version:"
+msgstr ""
+
+#. Minute archive title. %s is the minute time format.
+#: inc/breadcrumbs.php:279
+#, php-format
+msgid "Minute %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:741
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: inc/breadcrumbs.php:758
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: inc/breadcrumbs.php:792 inc/breadcrumbs.php:848 inc/breadcrumbs.php:1218
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:46
+msgid "More Sections"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:119
+#: inc/compatibility/elementor/widgets/site-logo.php:183
+#: inc/compatibility/elementor/widgets/site-logo.php:247
+msgid "No"
+msgstr ""
+
+#. 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:402
+#, php-format
+msgid "No action taken. Plugin %1$s was already active."
+msgstr ""
+
+#: inc/customizer/customizer.php:118 inc/customizer/customizer.php:245
+msgid "No file selected"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:55
+msgid "No Footer Layouts"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:50
+msgid "No Header Layouts"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3029
+msgid "No plugins are available to be activated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2895
+msgid "No plugins are available to be installed at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2897
+msgid "No plugins are available to be updated at this time."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2628
+msgid "No plugins to install, update or activate."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3003
+msgid "No plugins were selected to be activated. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2852
+msgid "No plugins were selected to be installed. No action taken."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2854
+msgid "No plugins were selected to be updated. No action taken."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:215
+#: inc/compatibility/elementor/widgets/site-logo.php:407
+msgid "None"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:487
+msgid "Normal"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2409
+msgid "Not Installed"
+msgstr ""
+
+#. %s: Link to the WordPress dashboard
+#: inc/admin/views/how-to-use.php:67
+#, php-format
+msgid ""
+"Once all the steps are complete, Go back to the <a href=\"%s\">Dashboard</a> "
+"to explore the theme options."
+msgstr ""
+
+#: inc/required-plugins.php:61
+msgid "One Click Demo Import"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:40
+msgid "One page"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:494
+#: inc/compatibility/elementor/widgets/site-logo.php:528
+msgid "Opacity"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:647
+msgid "Padding"
+msgstr ""
+
+#. %s is the page number.
+#: inc/breadcrumbs.php:275
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: template-parts/404.php:16
+msgid "Page Not Found"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:39
+msgid "Pages"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:409
+msgid "Please contact the administrator of this site for help."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1028
+#: inc/class-tgm-plugin-activation.php:1031
+msgid ""
+"Please contact the plugin provider and ask them to package their plugin "
+"according to the WordPress guidelines."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2642
+msgid "Plugin"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1215
+#: inc/class-tgm-plugin-activation.php:3043
+msgctxt "plugin A *and* plugin B"
+msgid "and"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:399
+#: inc/class-tgm-plugin-activation.php:3254
+msgid "Plugin activated successfully."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3253
+msgid "Plugin activation failed."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:404
+#, php-format
+msgid ""
+"Plugin not activated. A higher version of %s is needed for this theme. "
+"Please update the plugin."
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2482
+#, php-format
+msgctxt "plugins"
+msgid "All <span class=\"count\">(%s)</span>"
+msgid_plural "All <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. If there are characters in your language that are not
+#. supported by Poppins, translate this to 'off'. Do not translate
+#. into your own language.
+#: functions.php:48
+msgctxt "Poppins font: on or off"
+msgid "on"
+msgstr ""
+
+#: functions.php:200
+msgid "Portfolio sidebar"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2392
+msgid "Pre-Packaged"
+msgstr ""
+
+#: inc/customizer/customizer.php:92
+msgid "Preloader"
+msgstr ""
+
+#: inc/customizer/customizer.php:109
+msgid "Preloader icon"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:29
+msgid "Premium Email Support"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:19
+msgid "Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:137
+msgid "Pro - Show Magic Cursor."
+msgstr ""
+
+#: inc/customizer/customizer.php:154
+msgid "Pro - Smooth Scrolling Disable/Enable"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:26
+msgid "Pro Version Updates for 1 Year"
+msgstr ""
+
+#: template-parts/archive.php:62 template-parts/search.php:62
+msgid "Read More"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2370
+msgid "Recommended"
+msgstr ""
+
+#: inc/customizer/customizer.php:117 inc/customizer/customizer.php:244
+msgid "Remove"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2367
+msgid "Required"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2421
+msgid "Required Update not Available"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2424
+msgid "Requires Update"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:397
+msgid "Return to Required Plugins Installer"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:398
+#: inc/class-tgm-plugin-activation.php:921
+#: inc/class-tgm-plugin-activation.php:2628
+#: inc/class-tgm-plugin-activation.php:3675
+msgid "Return to the Dashboard"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:165
+msgid "Right"
+msgstr ""
+
+#: template-parts/search.php:25
+msgid "Search results for: "
+msgstr ""
+
+#. %s is the search query.
+#: inc/breadcrumbs.php:273
+#, php-format
+msgid "Search results for: %s"
+msgstr ""
+
+#: inc/customizer/customizer.php:114 inc/customizer/customizer.php:119
+#: inc/customizer/customizer.php:241 inc/customizer/customizer.php:246
+msgid "Select File"
+msgstr ""
+
+#: functions.php:190
+msgid "Sidebar"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:109
+msgid "Site Logo"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:275
+msgid "Site logo"
+msgstr ""
+
+#: header.php:29
+msgid "Skip to content"
+msgstr ""
+
+#: inc/customizer/customizer.php:153
+msgid "Smooth Scrolling"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:408
+msgid "Solid"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:345
+msgid "Something went wrong with the plugin API."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2643
+msgid "Source"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:659
+msgid "Spacing"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2649
+msgid "Status"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:64
+msgid "Sticky Menu"
+msgstr ""
+
+#: inc/required-plugins.php:55
+msgid "SVG Support"
+msgstr ""
+
+#: template-parts/single.php:66
+msgid "Tags:"
+msgstr ""
+
+#: inc/admin/views/license.php:16
+msgid ""
+"Take Dentaire to a whole other level by upgrading to the premium version."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:602
+msgid "Text Color"
+msgstr ""
+
+#. %s: version number
+#: inc/class-tgm-plugin-activation.php:2076
+#, php-format
+msgid "TGMPA v%s"
+msgstr ""
+
+#. %1$s: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:359
+#, php-format
+msgid ""
+"The following plugin needs to be updated to its latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgid_plural ""
+"The following plugins need to be updated to their latest version to ensure "
+"maximum compatibility with this theme: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:400
+#: inc/class-tgm-plugin-activation.php:3047
+msgid "The following plugin was activated successfully:"
+msgstr ""
+
+#. %1$s: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:377
+#, php-format
+msgid "The following recommended plugin is currently inactive: %1$s."
+msgid_plural "The following recommended plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. %1$s: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:371
+#, php-format
+msgid "The following required plugin is currently inactive: %1$s."
+msgid_plural "The following required plugins are currently inactive: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:3602
+msgid ""
+"The installation and activation process is starting. This process may take a "
+"while on some hosts, so please be patient."
+msgstr ""
+
+#. 1: plugin name.
+#: inc/class-tgm-plugin-activation.php:3598
+#, php-format
+msgid "The installation of %1$s failed."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:3610
+msgid ""
+"The installation process is starting. This process may take a while on some "
+"hosts, so please be patient."
+msgstr ""
+
+#: template-parts/404.php:31
+msgid "The page you are looking for does not exist"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1031
+msgid ""
+"The remote plugin package consists of more than one file, but the files are "
+"not packaged in a folder."
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:1028
+msgid ""
+"The remote plugin package does not contain a folder with the desired slug "
+"and renaming did not work."
+msgstr ""
+
+#: inc/admin/views/dashboard.php:16
+msgid "Theme Options"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:408
+msgid ""
+"There are one or more required or recommended plugins to install, update or "
+"activate."
+msgstr ""
+
+#. %1$s: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:365
+#, php-format
+msgid "There is an update available for: %1$s."
+msgid_plural "There are updates available for the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:614
+msgid "This plugin needs to be updated to be compatible with your theme."
+msgstr ""
+
+#. %1$s: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:353
+#, php-format
+msgid "This theme recommends the following plugin: %1$s."
+msgid_plural "This theme recommends the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. %1$s: plugin name(s).
+#: inc/class-tgm-plugin-activation.php:347
+#, php-format
+msgid "This theme requires the following plugin: %1$s."
+msgid_plural "This theme requires the following plugins: %1$s."
+msgstr[0] ""
+msgstr[1] ""
+
+#. 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2494
+#, php-format
+msgid "To Activate <span class=\"count\">(%s)</span>"
+msgid_plural "To Activate <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/admin/views/how-to-use.php:56
+msgid ""
+"To edit the page content, Go to Pages, click on the <strong>Edit With "
+"Elementor</strong> button to edit page."
+msgstr ""
+
+#: inc/admin/admin.php:29
+msgid "To get started quickly, use the options below:"
+msgstr ""
+
+#. %s: Link to the Demo Import
+#: inc/admin/views/dashboard.php:49
+#, php-format
+msgid "To get started, go to the <a href=\"%s\">Demo Import</a> tab."
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2486
+#, php-format
+msgid "To Install <span class=\"count\">(%s)</span>"
+msgid_plural "To Install <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#. %s: Link to the plugin installation screen
+#: inc/admin/views/how-to-use.php:19
+#, php-format
+msgid ""
+"To install plugins, Click on the <a href=\"%s\" target=\"_blank\"><strong>"
+"Begin installing plugins</strong></a> link at the top of the screen. After "
+"installation, activate the plugin."
+msgstr ""
+
+#. %s: URL to the upgrade page
+#: inc/admin/views/free-vs-pro.php:96
+#, php-format
+msgid ""
+"To take advantage of the Pro <a href=\"%s\" target=\"_blank\">Upgrade now</a>"
+"."
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:545
+msgid "Transition Duration"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:34
+msgid "Translation Ready"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2644
+msgid "Type"
+msgstr ""
+
+#: inc/admin/views/dashboard.php:24
+msgid "Typography & Colors"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2818
+msgid "Update"
+msgstr ""
+
+#. %2$s: plugin name in screen reader markup
+#: inc/class-tgm-plugin-activation.php:2703
+#, php-format
+msgid "Update %2$s"
+msgstr ""
+
+#. 1: number of plugins.
+#: inc/class-tgm-plugin-activation.php:2490
+#, php-format
+msgid "Update Available <span class=\"count\">(%s)</span>"
+msgid_plural "Update Available <span class=\"count\">(%s)</span>"
+msgstr[0] ""
+msgstr[1] ""
+
+#: inc/class-tgm-plugin-activation.php:2427
+msgid "Update recommended"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:615
+msgid "Update Required"
+msgstr ""
+
+#: inc/admin/views/free-vs-pro.php:24
+msgid "Updates"
+msgstr ""
+
+#. 1: plugin name, 2: action number 3: total number of actions.
+#: inc/class-tgm-plugin-activation.php:3593
+#, php-format
+msgid "Updating Plugin %1$s (%2$d/%3$d)"
+msgstr ""
+
+#. %s: plugin name.
+#: inc/class-tgm-plugin-activation.php:344
+#, php-format
+msgid "Updating Plugin: %s"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2779
+msgid "Upgrade message from the plugin author:"
+msgstr ""
+
+#: inc/admin/views/license.php:17
+msgid "Upgrade Now"
+msgstr ""
+
+#: inc/admin/admin.php:32
+msgid "UPGRADE TO PRO"
+msgstr ""
+
+#: inc/admin/class-dashboard.php:103 inc/admin/class-dashboard.php:104
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2648
+msgid "Version"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:258
+msgid "View"
+msgstr ""
+
+#: inc/admin/admin.php:31
+msgid "VIEW DEMO"
+msgstr ""
+
+#. Weekly archive title. %s is the week date format.
+#: inc/breadcrumbs.php:281
+#, php-format
+msgid "Week %s"
+msgstr ""
+
+#: inc/breadcrumbs.php:821
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: inc/admin/admin.php:74
+msgid "Welcome to Dentaire Lite"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:283
+msgid "Width"
+msgstr ""
+
+#: inc/customizer/customizer.php:195 inc/customizer/customizer.php:212
+msgid "With Sidebar"
+msgstr ""
+
+#: inc/class-tgm-plugin-activation.php:2386
+msgid "WordPress Repository"
+msgstr ""
+
+#: inc/breadcrumbs.php:791 inc/breadcrumbs.php:820 inc/breadcrumbs.php:847
+#: inc/breadcrumbs.php:874 inc/breadcrumbs.php:1214
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: inc/compatibility/elementor/widgets/site-logo.php:118
+#: inc/compatibility/elementor/widgets/site-logo.php:184
+#: inc/compatibility/elementor/widgets/site-logo.php:246
+msgid "Yes"
+msgstr ""
+
+#: inc/admin/admin.php:28
+msgid ""
+"You are now using Dentaire Lite, a beautifully designed theme to start your "
+"website."
+msgstr ""

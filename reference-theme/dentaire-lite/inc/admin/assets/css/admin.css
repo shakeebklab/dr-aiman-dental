@@ -1,0 +1,140 @@
+.notice.wpmet-notice,
+#elementskit-lite-_plugin_rating_msg_used_in_day,
+.notice-elementskit-pro-not-active {
+    display: none!important;
+}
+
+a.toplevel_page_elementskit.wp-menu-open{
+    background: #2271b1 !important;
+}
+
+.toplevel_page_dentaire-lite-dashboard .wp-menu-image img{
+	width:20px;
+	height:auto;
+}
+
+#dentaire-lite-welcome-notice.notice.notice-success{
+	padding: 40px;
+	border: none;
+	border-radius: 10px;
+	box-shadow: none;
+	margin-bottom: 20px;
+	background: linear-gradient(45deg,#000000,#00000099);
+}
+
+.notice-text .welcome-text1{
+	font-size: 30px;
+	font-weight: 700;
+	letter-spacing: -0.01em;
+	margin: 0 0 10px;
+	color: #fff;
+	line-height: 1.2em;
+}
+
+.notice-text .welcome-text2{
+	font-size: 16px;
+	color: #fff;
+}
+
+.notice-text .welcome-text3{
+	font-weight: bold;
+	margin-bottom: 20px;
+	color: #fff;
+}
+
+.import-btn,
+.demo-btn,
+.upgrade-btn{
+	margin-right: 10px;
+}
+
+.import-btn a.button,
+.demo-btn a.button,
+.upgrade-btn a.button{
+	font-weight: 600;
+	padding: 12px 20px;
+	border-radius: 30px;
+	border: 2px solid #fff;
+	transition: all 0.3s ease-in-out;
+	background: #fff;
+	color: #000;
+	line-height: 1.4em;
+}
+
+.import-btn a.button,
+.demo-btn a.button{
+	background: none;
+	border: 2px solid #fff;
+	color: #fff;
+}
+
+.notice-img1{
+	text-align: right;
+}
+
+.notice-img1 img{
+	margin-bottom: -45px;
+	margin-top: -20px;
+	max-width: 100%;
+}
+
+#dentaire-lite-welcome-notice .notice-dismiss:before{
+	color: #fff;
+}
+
+@media only screen and (max-width: 1240px){
+	#dentaire-lite-welcome-notice{
+		padding: 20px;
+	}
+	
+	.notice-text .welcome-text1{
+		font-size: 24px;
+	}
+	
+	.notice-text .welcome-text2{
+		font-size: 14px;
+	}
+	
+	.notice-img1 img {
+		margin-bottom: -25px;
+		margin-top: 0px;
+	}
+	
+	.import-btn a.button, .demo-btn a.button, .upgrade-btn a.button{
+		padding: 8px 12px;
+		margin-bottom: 8px;
+	}
+}
+
+@media only screen and (max-width: 991px){
+	.notice-img1{
+		text-align: center;
+	}
+	
+	#dentaire-lite-welcome-notice{
+		overflow: hidden;
+		padding: 20px 0;
+	}
+	
+	#dentaire-lite-welcome-notice .notice-text{
+		text-align: center;
+	}
+	
+	.notice-img1 img{
+		margin-top: 20px;
+		margin-bottom: -30px;
+	}
+	
+	#dentaire-lite-welcome-notice .container-fluid{
+		margin-left: auto;
+		margin-right: auto;
+	}
+		
+}
+
+@media only screen and (max-width: 667px){
+	.notice-text .welcome-text1{
+		font-size: 20px;
+	}
+	
+}
