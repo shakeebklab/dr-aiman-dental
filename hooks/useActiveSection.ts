@@ -2,7 +2,9 @@
 
 import { useEffect, useState } from "react";
 
-export function useActiveSection(ids: string[]) {
+// `ids` must be referentially stable (e.g. a module-level constant); a new
+// array on every render would tear down and rebuild the observer each time.
+export function useActiveSection(ids: readonly string[]) {
   const [activeSection, setActiveSection] = useState(ids[0] ?? "");
 
   useEffect(() => {
@@ -33,4 +35,3 @@ export function useActiveSection(ids: string[]) {
 
   return activeSection;
 }
-

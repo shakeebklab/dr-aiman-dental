@@ -2,6 +2,7 @@
 import {
   CalendarCheck2,
   Clock3,
+  Cpu,
   CreditCard,
   Gem,
   HeartPulse,
@@ -12,9 +13,25 @@ import {
   Sparkles,
   Star,
   Stethoscope,
-  Syringe,
-  UsersRound,
+  SunMedium,
 } from "lucide-react";
+
+export const clinic = {
+  name: "Dr. Aiman Dental Care",
+  phone: "+(123) 698-5245",
+  phoneHref: "tel:+1236985245",
+  email: "info@domain.com",
+  address: "24/11 Robert Road, New York, USA",
+  hours: "Mon to Sat 9:00AM to 9:00PM",
+};
+
+// Replace these with the clinic's real profile URLs.
+export const socialLinks = [
+  { label: "Facebook", href: "https://www.facebook.com/" },
+  { label: "Instagram", href: "https://www.instagram.com/" },
+  { label: "YouTube", href: "https://www.youtube.com/" },
+  { label: "X", href: "https://x.com/" },
+] as const;
 
 export const navigation = [
   { label: "Home", href: "#home", id: "home" },
@@ -52,7 +69,7 @@ export const services: Array<{
     title: "Teeth whitening",
     description:
       "Professional whitening treatments for a brighter smile with safe enamel care.",
-    icon: Syringe,
+    icon: SunMedium,
   },
 ];
 
@@ -95,7 +112,7 @@ export const reasons: Array<{
     title: "Latest technology",
     description:
       "Digital diagnostics, guided planning, and efficient in-clinic workflows.",
-    icon: UsersRound,
+    icon: Cpu,
   },
 ];
 
@@ -128,17 +145,15 @@ export const doctors = [
   { name: "Dr. Aiman", role: "Lead Dentist", image: "/dr-aiman-hero.png" },
   { name: "Dr. Sara Malik", role: "Senior Dentist", image: "/photos/doctor-2.jpg" },
   { name: "Dr. Emily Stone", role: "Orthodontist", image: "/photos/doctor-3.jpg" },
-  { name: "Dr. Hina Yusuf", role: "Periodontist", image: "/photos/doctor-2.jpg" },
 ];
 
 export const testimonials = [
   {
     rating: "4.7/5",
     quote:
-      "I want to say thank you to my doctor Steve. Thank you for helping me overcome my fear of the dentist. Every step felt calm, clear, and genuinely caring.",
+      "I want to say thank you to Dr. Aiman for helping me overcome my fear of the dentist. Every step felt calm, clear, and genuinely caring.",
     name: "Robert Lee",
     role: "Software Engineer",
-    image: "/photos/doctor-2.jpg",
   },
   {
     rating: "4.8/5",
@@ -146,7 +161,6 @@ export const testimonials = [
       "The best dental experience I've ever had. The team was professional and friendly, and the results were amazing. I felt comfortable from the moment I walked in.",
     name: "Banson Doe",
     role: "Teacher",
-    image: "/photos/doctor-3.jpg",
   },
   {
     rating: "4.9/5",
@@ -154,7 +168,6 @@ export const testimonials = [
       "Excellent service and care. The staff is knowledgeable, patient, and always willing to answer questions. I would not go anywhere else for my dental needs.",
     name: "Thomas Linda",
     role: "Designer",
-    image: "/dr-aiman-hero.png",
   },
 ];
 
@@ -185,29 +198,51 @@ export const articles = [
 export const contactDetails = [
   {
     label: "Address",
-    value: "24/11 Robert Road, New York, USA",
+    value: clinic.address,
     icon: MapPin,
   },
   {
     label: "Phone",
-    value: "+(123) 698-5245",
+    value: clinic.phone,
+    href: clinic.phoneHref,
     icon: Phone,
   },
   {
     label: "Email",
-    value: "info@domain.com",
+    value: clinic.email,
+    href: `mailto:${clinic.email}`,
     icon: Mail,
   },
   {
     label: "Hours",
-    value: "Mon to Sat 9:00AM to 9:00PM",
+    value: clinic.hours,
     icon: Clock3,
   },
 ];
 
 export const stats = [
-  { value: 75, suffix: "+", label: "Insurance covered" },
-  { value: 2, suffix: "K", label: "Realized projects" },
-  { value: 22, suffix: "K", label: "Happy customers" },
-  { value: 18, suffix: "+", label: "Experience doctors" },
+  {
+    value: 75,
+    suffix: "+",
+    label: "Insurance plans accepted",
+    description: "Most major dental insurance plans are accepted, with help filing every claim.",
+  },
+  {
+    value: 2,
+    suffix: "K",
+    label: "Smiles restored",
+    description: "Implants, crowns, and cosmetic work planned around how you want to look and feel.",
+  },
+  {
+    value: 22,
+    suffix: "K",
+    label: "Happy patients",
+    description: "Families who trust us for checkups, cleanings, and everything in between.",
+  },
+  {
+    value: 18,
+    suffix: "+",
+    label: "Experienced doctors",
+    description: "Specialists in general, cosmetic, orthodontic, and implant dentistry.",
+  },
 ];
